@@ -23,3 +23,5 @@ def strcounter2(a):  #8 операций
     print(syms_counter)
 
 strcounter2(a)
+
+123
