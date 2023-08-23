@@ -25,3 +25,4 @@ def strcounter2(a):  #8 операций
 strcounter2(a)
 
 123
+12
